@@ -1,12 +1,19 @@
 # Scanner Demon
 
-![Banner](path_to_banner_image.png)
+<div align="center">
+  <img src="https://media0.giphy.com/media/l2JhnXnR5PvTOPjEs/giphy.webp?cid=790b7611t6cc3o6f93krq4axmx7az7muwsn2x5jo9548ioqh&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="300" height="300" alt="Skull gif"/>
+</div>
 
 Scanner Demon é uma ferramenta de escaneamento de redes que permite capturar pacotes, verificar a atividade de hosts e escanear portas em um determinado IP. Desenvolvido em C.
 
 ## Criado por WesleyA0101
 
-![C Logo](https://upload.wikimedia.org/wikipedia/commons/1/19/C_Programming_Language.svg) ![Vim Logo](https://upload.wikimedia.org/wikipedia/commons/8/8e/Vim_logo.svg)
+## Tecnologias usadas
+
+<div align="center">
+  <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" alt="C Logo" width="60" height="60"/>
+  <img src="https://icongr.am/devicon/vim-original.svg?size=128&color=currentColor" alt="Vim Logo" width="60" height="60"/>
+</div>
 
 ## Tabela de Conteúdos
 
@@ -14,8 +21,6 @@ Scanner Demon é uma ferramenta de escaneamento de redes que permite capturar pa
 - [Pré-requisitos](#pré-requisitos)
 - [Instalação](#instalação)
 - [Uso](#uso)
-- [Contribuindo](#contribuindo)
-- [Licença](#licença)
 
 ## Características
 
@@ -39,11 +44,11 @@ Clone o repositório e compile o projeto:
 ```bash
 git clone https://github.com/seuusuario/scanner_demon.git
 cd scanner_demon
-make 
+make
 ```
+## Uso
 
-
-
-
-
+```bash
+./scanner_demon
+```
 
