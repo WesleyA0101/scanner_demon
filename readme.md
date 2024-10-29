@@ -45,6 +45,10 @@ Clone o repositório e compile o projeto:
 git clone https://github.com/seuusuario/scanner_demon.git
 cd scanner_demon
 make
+
+ou
+
+gcc scanner_demon.c -o scanner_demon -lpcap -lpthread
 ```
 ## Uso
 
