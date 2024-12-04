@@ -55,4 +55,6 @@ gcc scanner_demon.c -o scanner_demon -lpcap -lpthread
 ```bash
 ./scanner_demon
 ```
+## Contribuição 
 
+Contribuições são bem-vindas! Se você deseja sugerir melhorias ou corrigir bugs, sinta-se à vontade para abrir um pull request ou criar uma issue no repositório.
